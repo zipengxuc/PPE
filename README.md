@@ -1,4 +1,4 @@
-# PPE
+# PPE ✨
 Pytorch implementation of the paper:
 
 [Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model](https://arxiv.org/abs/2111.13333).
