@@ -59,12 +59,12 @@ cd mapper
 #### Prevent
 Train the mapper network with Entanglement Loss based on the found attributes (we call it "anchors" colloquially):
 ```shell script
-python scripts/train.py --exp_dir ../results/black_hair_ppe --description "black hair" --anchors 'short eyebrows','with bangs','short hair','black eyes','narrow eyes','high cheekbones','with lipstick','pointy face','sideburns','with makeup' --tar_dist 0.1826171875
+python scripts/train.py --exp_dir ../results/black_hair_ppe --description "black hair" --anchors 'short eyebrows','with bangs','short hair','black eyes','narrow eyes','high cheekbones','with lipstick','pointy face','sideburns','with makeup'
 ```
 #### Evaluate
 Evaluate the manipulation with our evaluation metric:
 ```shell script
-python scripts/evaluate.py --exp_dir ../results/black_hair_ppe --description "black hair" --anchors 'short eyebrows','with bangs','short hair','black eyes','narrow eyes','high cheekbones','with lipstick','pointy face','sideburns','with makeup' --tar_dist 0.1826171875
+python scripts/evaluate.py --exp_dir ../results/black_hair_ppe --description "black hair" --anchors 'short eyebrows','with bangs','short hair','black eyes','narrow eyes','high cheekbones','with lipstick','pointy face','sideburns','with makeup'
 ```
 
 ## Reference
