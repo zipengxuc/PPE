@@ -11,6 +11,7 @@ To appear in CVPR 2022.
 
 ## Updates
 _24 Mar 2022_: We update our arxiv-version paper.
+
 _30 Mar 2022_: We have had some changes in releasing the code. This repository will include a PaddlePaddle implementation of the paper. We are sorry for the alteration. If you have any question, please contact zipeng.xu@unitn.it.
 
 ## Reference
