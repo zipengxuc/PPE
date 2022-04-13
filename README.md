@@ -15,7 +15,7 @@ _24 Mar 2022_: We update our arxiv-version paper.
 
 _30 Mar 2022_: We have had some changes in releasing the code. Pytorch implementation is now at: [zipengxuc/PPE-Pytorch](https://github.com/zipengxuc/PPE-Pytorch).
 
-_14 Apr 2022_: Update our PaddlePaddle implementation in this repository.
+_14 Apr 2022_: Update our PaddlePaddle inference code in this repository.
 
 ## To reproduce our results:
 ### Setup:
