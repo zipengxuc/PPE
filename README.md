@@ -8,12 +8,12 @@ To appear in CVPR 2022.
 
 ![](img/teaser.png)
 
-Pytorch implementation is at: [zipengxuc/PPE-Pytorch](https://github.com/zipengxuc/PPE-Pytorch).
+Pytorch implementation is at here: [zipengxuc/PPE-Pytorch](https://github.com/zipengxuc/PPE-Pytorch).
 
 ## Updates
 _24 Mar 2022_: We update our arxiv-version paper.
 
-_30 Mar 2022_: We have had some changes in releasing the code. Pytorch implementation is now at: [zipengxuc/PPE-Pytorch](https://github.com/zipengxuc/PPE-Pytorch).
+_30 Mar 2022_: We have had some changes in releasing the code. Pytorch implementation is now at here: [zipengxuc/PPE-Pytorch](https://github.com/zipengxuc/PPE-Pytorch).
 
 _14 Apr 2022_: Update our PaddlePaddle inference code in this repository.
 
@@ -40,10 +40,10 @@ Download the pre-trained StyleGAN2 generator from [here](https://paddlegan.bj.bc
  [test set](https://drive.google.com/file/d/16L7iyo7mDYuOnwGaQ5KaI7s-bloKzvHE/view?usp=sharing).
 
 ### Usage:
-Please first put downloaded pretraiend models and data on "ckpt" folder.
+Please first put downloaded pretraiend models and data on `ckpt` folder.
 
 #### Inference
-In PaddlePaddle version, we only provide inference codes to generate editing results:
+In PaddlePaddle version, we only provide inference code to generate editing results:
 ```shell script
 python mapper/evaluate.py
 ```
