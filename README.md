@@ -29,7 +29,7 @@ _14 Apr 2022_: Update our PaddlePaddle inference code in this repository.
 - Download pre-trained models:
 
     The code relies on the [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN/) (PaddlePaddle implementation of StyleGAN2).
-Download the pre-trained model from [here](https://paddlegan.bj.bcebos.com/models/stylegan2-ffhq-config-f.pdparams).
+Download the pre-trained StyleGAN2 generator from [here](https://paddlegan.bj.bcebos.com/models/stylegan2-ffhq-config-f.pdparams).
     
     We provided several pretrained PPE models on [here](https://drive.google.com/file/d/1Xy4gmg1sJxXp10-mOBd7rmzmyi90uGFE/view?usp=sharing). 
 
